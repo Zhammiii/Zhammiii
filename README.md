@@ -3,9 +3,9 @@ Hi 👋 My name is Samantha
 
 SOON TO BE full stack developer. Estoy súper emocionada de sumergirme en este mundo de la tecnología y crear soluciones innovadoras. 🚀 Mi camino para ser una pro en esto no es solo aprender tecnologías, sino también entender cómo hacer aplicaciones que sean eficientes y escalables. Me encanta resolver problemas y ser creativa, así que me encantan los desafíos que me ayuden a crecer y a ver las cosas desde diferentes ángulos.
 
-* 🌍  I'm based in Chile
-* ✉️  You can contact me at [ossandonsubiabre@gmail.com](mailto:ossandonsubiabre@gmail.com)
-* 🧠  I'm learning JS
+* 🌍  Soy de Chile
+* ⚡  Mis hobbies son el Gaming, la impresion 3D y el futbol.
+
 
 ### Skills
 
