@@ -1,11 +1,10 @@
 Hola 👋 Me llamo Samantha
 =========================
-
-SOON TO BE full stack JS developer. Estoy súper emocionada de sumergirme en este mundo de la tecnología y crear soluciones innovadoras. 🚀 Mi camino para ser una pro en esto no es solo aprender tecnologías, sino también entender cómo hacer aplicaciones que sean eficientes y escalables. Me encanta resolver problemas y ser creativa, así que me encantan los desafíos que me ayuden a crecer y a ver las cosas desde diferentes ángulos.
+Full stack JS developer. Estoy súper emocionada de sumergirme en este mundo de la tecnología y crear soluciones innovadoras. 🚀 Mi camino para ser una pro en esto no es solo aprender tecnologías, sino también entender cómo hacer aplicaciones que sean eficientes y escalables. Me encanta resolver problemas y ser creativa, así que me encantan los desafíos que me ayuden a crecer y a ver las cosas desde diferentes ángulos.
 
 * 🌍  Soy de Chile
 * ✉️  Puedes contactarme en [ossandonsubiabre@gmail.com](mailto:ossandonsubiabre@gmail.com)
-* 🧠  Actualmente aprendiendo React
+* 🧠  Actualmente aprendiendo Analisis de datos
 * ⚡  Mis hobbies son el Gaming, la impresion 3D y el futbol.
 
 <a href="https://www.github.com/Zhammiii" target="_blank" rel="noreferrer"><img
